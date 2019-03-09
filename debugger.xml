@@ -1,8 +1,17 @@
 <application>
   <component name="XDebuggerSettings">
-    <data-views />
+    <data-views>
+      <sort-values>true</sort-values>
+    </data-views>
     <general>
       <scroll-to-center>true</scroll-to-center>
     </general>
+    <debuggers>
+      <debugger id="python">
+        <configuration>
+          <option name="librariesFilterEnabled" value="true" />
+        </configuration>
+      </debugger>
+    </debuggers>
   </component>
 </application>

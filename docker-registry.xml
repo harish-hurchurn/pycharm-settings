@@ -1,0 +1,9 @@
+<application>
+  <component name="DockerRegistry">
+    <DockerRegistry email="Harish.Hurchurn@johnlewis.co.uk">
+      <option name="address" value="jl-docker.githost.io" />
+      <option name="name" value="jl-docker.githost.io" />
+      <option name="username" value="Harish.Hurchurn@johnlewis.co.uk" />
+    </DockerRegistry>
+  </component>
+</application>

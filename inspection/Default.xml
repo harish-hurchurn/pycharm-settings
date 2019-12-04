@@ -15,4 +15,11 @@
   </inspection_tool>
   <inspection_tool class="PyMandatoryEncodingInspection" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="PyMissingOrEmptyDocstringInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+  <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+    <option name="ignoredIdentifiers">
+      <list>
+        <option value="apache_beam.testing.test_pipeline.TestPipeline.__or__" />
+      </list>
+    </option>
+  </inspection_tool>
 </profile>

@@ -1,0 +1,5 @@
+<application>
+  <component name="AppReSTService">
+    <option name="TXT_IS_RST" value="true" />
+  </component>
+</application>

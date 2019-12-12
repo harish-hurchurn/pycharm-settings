@@ -17,7 +17,7 @@
   <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="ignoredPackages">
       <value>
-        <list size="138">
+        <list size="139">
           <item index="0" class="java.lang.String" itemvalue="tzlocal" />
           <item index="1" class="java.lang.String" itemvalue="Babel" />
           <item index="2" class="java.lang.String" itemvalue="json-merge-patch" />
@@ -156,6 +156,7 @@
           <item index="135" class="java.lang.String" itemvalue="grpcio" />
           <item index="136" class="java.lang.String" itemvalue="google-auth" />
           <item index="137" class="java.lang.String" itemvalue="pydata-google-auth" />
+          <item index="138" class="java.lang.String" itemvalue="PyNaCl" />
         </list>
       </value>
     </option>

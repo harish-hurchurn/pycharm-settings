@@ -9,7 +9,6 @@
     <debuggers>
       <debugger id="python">
         <configuration>
-          <option name="librariesFilterEnabled" value="true" />
           <option name="steppingFiltersEnabled" value="true" />
         </configuration>
       </debugger>

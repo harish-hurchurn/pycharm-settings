@@ -17,7 +17,7 @@
   <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="ignoredPackages">
       <value>
-        <list size="143">
+        <list size="148">
           <item index="0" class="java.lang.String" itemvalue="tzlocal" />
           <item index="1" class="java.lang.String" itemvalue="Babel" />
           <item index="2" class="java.lang.String" itemvalue="json-merge-patch" />
@@ -161,6 +161,11 @@
           <item index="140" class="java.lang.String" itemvalue="bleach" />
           <item index="141" class="java.lang.String" itemvalue="lxml" />
           <item index="142" class="java.lang.String" itemvalue="webencodings" />
+          <item index="143" class="java.lang.String" itemvalue="tensorflow-metadata" />
+          <item index="144" class="java.lang.String" itemvalue="tensorflow-transform" />
+          <item index="145" class="java.lang.String" itemvalue="apache-beam" />
+          <item index="146" class="java.lang.String" itemvalue="fastavro" />
+          <item index="147" class="java.lang.String" itemvalue="google-cloud-dataflow" />
         </list>
       </value>
     </option>

@@ -1,4 +1,19 @@
 <application>
+  <component name="GitRememberedInputs">
+    <option name="visitedUrls">
+      <list>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.com/JohnLewisPartnership/jlp-data-platform/data-engineering/gcp/cloud-composer/pipelines" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitlab.com" />
+          <option name="userName" value="harish.hurchurn@johnlewis.co.uk" />
+        </UrlAndUserName>
+      </list>
+    </option>
+    <option name="cloneParentDir" value="/Volumes/work/projects/current/johnlewis" />
+  </component>
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_TAG_NAMES" value="true" />
     <option name="LABELS_LEFT_ALIGNED" value="true" />

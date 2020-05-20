@@ -5,9 +5,9 @@
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern=".gcloudignore" type="PLAIN_TEXT" />
-      <mapping pattern="ISOCoder" type="PLAIN_TEXT" />
       <mapping pattern=".coveragerc" type="PLAIN_TEXT" />
       <mapping pattern=".ideavimrc" type="PLAIN_TEXT" />
+      <mapping pattern="ISOCoder" type="PLAIN_TEXT" />
       <mapping pattern=".pylintrc" type="PLAIN_TEXT" />
       <mapping pattern="Pipenv" type="PLAIN_TEXT" />
       <mapping ext="so" type="PLAIN_TEXT" />

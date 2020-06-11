@@ -10,6 +10,7 @@
       <debugger id="python">
         <configuration>
           <option name="steppingFiltersEnabled" value="true" />
+          <option name="watchReturnValues" value="true" />
         </configuration>
       </debugger>
     </debuggers>

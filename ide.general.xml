@@ -14,6 +14,7 @@
     <entry key="ide.mac.allowDarkWindowDecorations" value="true" />
     <entry key="debugger.valueTooltipAutoShowOnSelection" value="true" />
     <entry key="ide.settings.move.mouse.on.default.button" value="true" />
+    <entry key="ide.windowSystem.autoShowProcessPopup" value="true" />
   </component>
   <component name="StatusBar">
     <option name="widgets">

@@ -1,23 +1,52 @@
 <application>
-  <component name="VimSettings">
-    <state version="4" enabled="false" />
-    <globalmarks />
-    <filemarks />
-    <jumps />
-    <registers />
-    <search>
-      <last-dir>0</last-dir>
-      <show-last>false</show-last>
-    </search>
+  <component name="VimEditorSettings">
+    <editor>
+      <key-repeat enabled="false" />
+    </editor>
+  </component>
+  <component name="VimHistorySettings">
     <history>
       <history-search />
       <history-cmd />
       <history-expr />
       <history-input />
     </history>
+  </component>
+  <component name="VimKeySettings">
     <shortcut-conflicts />
-    <editor>
-      <key-repeat enabled="false" />
-    </editor>
+  </component>
+  <component name="VimMarksSettings">
+    <globalmarks />
+    <filemarks>
+      <file name="/start_script.py" timestamp="1570697609966">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/work/john_lewis/partnership_data_platform/cloud_composer/composer-metapack/airflow_home/dags/metapack_testing.py" timestamp="1570699970194">
+        <mark key="[" line="76" column="122" />
+      </file>
+      <file name="/Python Console" timestamp="1570696648700">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/work/john_lewis/partnership_data_platform/cloud_composer/composer-metapack/airflow_home/dags/metapack_main_hourly.py" timestamp="1570699732451">
+        <mark key="[" line="32" column="62" />
+      </file>
+    </filemarks>
+    <jumps />
+  </component>
+  <component name="VimRegisterSettings">
+    <registers />
+  </component>
+  <component name="VimSearchSettings">
+    <search>
+      <last-dir>0</last-dir>
+      <show-last>false</show-last>
+    </search>
+  </component>
+  <component name="VimSettings">
+    <state version="6" enabled="false" />
+    <notifications>
+      <idea-join enabled="false" />
+      <idea-put enabled="false" />
+    </notifications>
   </component>
 </application>
